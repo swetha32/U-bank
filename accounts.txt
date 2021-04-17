@@ -1,0 +1,5 @@
+Name		Accno
+swetha		1001
+sweety		1002
+vicky		1003
+
